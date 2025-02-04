@@ -129,20 +129,20 @@ body {
     display: flex; /* Habilitamos Flexbox */
     flex-direction: column; /* Alineamos los elementos verticalmente */
     align-items: center; /* Centramos los elementos horizontalmente */
-    text-align: center; /* Centramos el texto */
+    text-align: center; /* se centra  el texto */
 }
 
 .contenido-sobre-nosotros h2 {
-    margin-bottom: 20px; /* Espacio entre el título y el párrafo */
+    margin-bottom: 20px; /* Espacio entre el titulo y el parrafo */
 }
 
 .contenido-sobre-nosotros p {
-    margin-bottom: 30px; /* Espacio entre el párrafo y la lista */
-    max-width: 600px; /* Ancho máximo para el párrafo */
+    margin-bottom: 30px; /* Espacio entre el parrafo y la lista */
+    max-width: 600px; /* Ancho maximo para el parrafo */
 }
 
 .contenido-sobre-nosotros ul {
-    list-style: none; /* Quitamos los puntos de la lista */
+    list-style: none; /* se quita los puntos de la lista */
     padding: 0;
 }
 
